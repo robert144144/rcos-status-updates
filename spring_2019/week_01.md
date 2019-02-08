@@ -1,24 +1,18 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+Drew out data structure for future milestones and goals.
+Figured out how to send clients to different Scenes properly, if they already exist in memory. Hub -> Lobby.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
+Attempt to make it so the number of lobbies is equal to the number of active games. Currently, I am assuming that there is a limit of 100 games and just putting the clients into those. 
+This new implementation will also make it easier to end games and it will save memory space.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
+Not yet.
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+Attached Image of potential data structure.
+https://drive.google.com/file/d/1QleFpYMsPVDPt39gJ9_liW16BfQVl-0F/view
