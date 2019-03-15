@@ -12,7 +12,7 @@ NEW VM:
 
 ## This Week's Plan
 
--Continue trying to start the server... with more complex graphics
+-Continue trying to start the server... with more complex graphics`
 -If above is done, figure out how to save the data of the clients that log onto the server.
 
 ## Anything Blocking?
