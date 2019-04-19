@@ -8,6 +8,8 @@
 
 ## This Week's Plan
 
+FIGURE OUT HOW TO RECORD DATA WHEN PLAYERS LOG OFF!!!!!!!! -> "Star Rank/ Gem Cut"
+
 Save the position of players as they logout so next time they boot up the game, they spawn at those coordinates. This will imply that I can save more data that changes during the gameplay like "ELO"-Rankings.
 
 ## Anything Blocking?
